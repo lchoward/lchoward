@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on awesome things with the brilliant team at [CommandBar](www.commandbar.com). Lmk if you're interested in connecting or learning more about the company!
+
 <!--
 **lchoward/lchoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
