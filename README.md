@@ -4,6 +4,8 @@
 - 🌱 I'm learning how to optimize for search engines, write online content, and working on programming when I get time.
 - 🏃‍♂️ I love moving my body, including running, playing basketball, playing soccer, and dancing.
 
+**[Come join us at CommandBar!](https://www.commandbar.com/careers)**
+
 <!--
 **lchoward/lchoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
