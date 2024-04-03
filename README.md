@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I'm currently working on awesome things with the brilliant team at [CommandBar](www.commandbar.com). Lmk if you're interested in connecting or learning more about the company!
-- 🌱 I'm learning how to optimize for search engines, write online content, and working on programming when I get time.
-- 🏃‍♂️ I love moving my body, including running, playing basketball, playing soccer, and dancing.
+- 🔭 Currently working with the brilliant team at [CommandBar](www.commandbar.com). Lmk if you're interested in connecting or learning more about the company!
+- 🌱 Learning about SEO, marketing, programming, product design.
+- 🏃‍♂️ I love running and playing sports.
 
 **[Come join us at CommandBar!](https://www.commandbar.com/careers)**
 
