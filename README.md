@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Currently working with the brilliant team at [CommandBar](www.commandbar.com). Lmk if you're interested in connecting or learning more about the company!
-- 🌱 Learning about SEO, marketing, programming, product design.
-- 🏃‍♂️ I love running and playing sports.
+- 🔭 Working with the brilliant team at ~[CommandBar](www.commandbar.com)~ [Amplitude](www.amplitude.com)
+- 🏃‍♂️ I love playing sports and running
+- 🪴 Plants are my passion
 
 **[Come join us at CommandBar!](https://www.commandbar.com/careers)**
 
