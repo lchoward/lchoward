@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working with the brilliant team at ~[CommandBar](www.commandbar.com)~ [Amplitude](www.amplitude.com)
+- 🔭 Working with the brilliant team at ~[CommandBar](https://www.commandbar.com)~ [Amplitude](https://www.amplitude.com)
 - 🏃‍♂️ I love playing sports and running
 - 🪴 Plants are my passion
 
