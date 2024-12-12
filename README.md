@@ -4,8 +4,6 @@
 - 🏃‍♂️ I love playing sports and running
 - 🪴 Plants are my passion
 
-**[Come join us at CommandBar!](https://www.commandbar.com/careers)**
-
 <!--
 **lchoward/lchoward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
